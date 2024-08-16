@@ -7,8 +7,8 @@ lazy val root = (project in file("."))
 
 lazy val Versions = new {
   val zio = "2.0.21"
-  val zioHttp = "3.0.0-RC8"
-  val zioDynamodb = "1.0.0-RC3"
+  val zioHttp = "3.0.0-RC9"
+  val zioDynamodb = "1.0.0-RC6"
 
   val zioSchemaDerivation = "1.1.1"
   val zioSchemaJson = "1.1.1"
